@@ -10,7 +10,7 @@ It's been too long since I was into C++. I managed to build it now using Visual 
 
 Controls:
 
-Mouse 	look around
+Mouse   look around
 W 			move forwards
 S				move backwards
 A				strafe left
