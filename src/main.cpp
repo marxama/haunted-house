@@ -25,11 +25,11 @@ void keybDown(unsigned char key, int x, int y)
 		app->init();
 	}
 
-	if (key == 'q')
+	/*if (key == 'q')
 	{
 		delete app;
 		exit(0);
-	}
+	}*/
 }
 
 void keybUp(unsigned char key, int x, int y)
