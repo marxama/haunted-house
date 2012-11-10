@@ -10,17 +10,52 @@ It's been too long since I was into C++. I managed to build it now using Visual 
 
 Controls:
 
-Mouse   look around
-W 			move forwards
-S				move backwards
-A				strafe left
-D				strafe right
-E				interact with environment (open doors, pick up keys)
-F				toggle flashlight on/off
-N				start over (used mostly to check for memory leaks)
-M				spin the carousel in the middle
-0				toggle whether to fill polygons, or just draw outlines
-Esc/Q		shut down the program
+<table>
+	<tr>
+		<td>Mouse</td>
+		<td>look around</td>
+	</tr>
+	<tr>
+		<td>W</td>
+		<td>move forwards</td>
+	</tr>
+	<tr>
+		<td>S</td>
+		<td>move backwards</td>
+	</tr>
+	<tr>
+		<td>A</td>
+		<td>strafe left</td>
+	</tr>
+	<tr>
+		<td>D</td>
+		<td>strafe right</td>
+	</tr>
+	<tr>
+		<td>E</td>
+		<td>interact with environment (open doors, pick up keys)</td>
+	</tr>
+	<tr>
+		<td>F</td>
+		<td>toggle flashlight on/off</td>
+	</tr>
+	<tr>
+		<td>N</td>
+		<td>start over (used mostly to check for memory leaks)</td>
+	</tr>
+	<tr>
+		<td>M</td>
+		<td>spin the carousel in the middle</td>
+	</tr>
+	<tr>
+		<td>0</td>
+		<td>toggle whether to fill polygons, or just draw outlines</td>
+	</tr>
+	<tr>
+		<td>Esc</td>
+		<td>shut down the program</td>
+	</tr>
+</table>
 
 ## License
 
