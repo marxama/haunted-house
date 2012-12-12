@@ -1,6 +1,6 @@
 # haunted-house
 
-A project I made for an OpenGL course I had once. Simple but fun. Was before I learned how to program shaders, would be fun to add some to this project. The code is somewhat of a mess - there are lots of things I'm not too proud of, but I'm definitely happy with the results and all the (cheap) scares I've achieved!
+A project I made for an OpenGL course I had once. Simple but fun. Was before I learned how to program shaders, would be fun to add some to this project. The code is somewhat of a mess - there are lots of things I would've done differently today, but I'm definitely happy with the results and all the (cheap) scares I've achieved!
 
 Made in May 2010.
 
@@ -59,6 +59,6 @@ Controls:
 
 ## License
 
-Copyright © 2012 Marcus Magnusson
+Copyright ï¿½ 2012 Marcus Magnusson
 
 Distributed under the Eclipse Public License.
